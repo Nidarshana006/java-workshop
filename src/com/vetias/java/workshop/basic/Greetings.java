@@ -1,7 +1,7 @@
 
 public class Greetings {
 
-    public static void main(Strings[] args) {
+    public static void main(String[] args) {
         System.out.println("My first java program");
     }
 }
