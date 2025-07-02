@@ -2,4 +2,5 @@
 my java workshop practice
 java program
 loopi
- control statments
+ control statments 
+data types
