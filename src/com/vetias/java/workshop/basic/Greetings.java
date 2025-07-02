@@ -1,4 +1,4 @@
-package com.vetias.java.workshop.basics;
+
 public class Greetings {
 
     public static void main(Strings[] args) {
